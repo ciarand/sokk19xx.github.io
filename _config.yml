@@ -6,19 +6,22 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            Personal Blog
+tagline:          ' A Journey to a never ending of stuff|(╯°Д°）╯'
+description:      'A collection of randomness of Information that i think that is useful at least for me :D ,not a rant;
+		   Disclaimer: The views expressed on this blog are my personal views and opinion and do not reflects views of my employer '
+url:              https://sokk19xx.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kourun'
+  url:            https://www.linkedin.com/in/skourun
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/sokk19xx
+
+
