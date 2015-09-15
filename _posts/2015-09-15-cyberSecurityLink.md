@@ -14,6 +14,8 @@ A few sites that i think are useful that i read from a cyber security book.
 * nationalcyberleague.org
 * nationalccdc.org
 </br>
+
+
 ###mailing List
 * securityfocus.com
 * us-cert.gov
@@ -21,6 +23,8 @@ A few sites that i think are useful that i read from a cyber security book.
 * nakedsecurity.sophos.com
 * technet.microsoft.com/en-us/security/ddl162324.aspx
 </br>
+
+
 ###IC agency
 * cia.gov/careers/index.html
 * dea.gov/resources/job_applicants.html
