@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hello There , Not sure why you are here , but you must have come for a reason ;) - [MR.ROBOT REFERENCE](http://www.whoismrrobot.com/)
+  Hello There , Not sure why you are here , but you must have come for a reason ;) -[MR.ROBOT](http://www.whoismrrobot.com)
   Anyway, welcome. I am currently a student at CSUF studying computer science finishing up my final semester this fall 15.
   I love to experiment with a lot of things(raspberry pi -> vps -> vpn ) Not really just stuck with software. I took a lot of security classes at school , so i am kinda aware of what is going on :D .. 
 </p>
