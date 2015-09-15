@@ -4,10 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello There , Not sure why you are here , but you must have come for a reason ;) - [MR.ROBOT REFERENCE](http://www.whoismrrobot.com/)
+  Anyway, welcome. I am currently a student at CSUF studying computer science finishing up my final semester this fall 15.
+  I love to experiment with a lot of things(raspberry pi -> vps -> vpn ) Not really just stuck with software. I took a lot of security classes at school , so i am kinda aware of what is going on :D .. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The site is build on github page and using the following themes build for jekyll.  
+I leave the following info below the same from the theme.
 
 There are currently two themes built on Poole:
 
