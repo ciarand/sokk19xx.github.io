@@ -8,7 +8,10 @@ I made sure to to pick the Not the express setting for obvious reasons, and
 uses bitlocker to encrypted the whole drive . 
 Then it hit me ,i forgot to install linux first.
 Well i tried a few options,<br>
-<strike><h3>wubi ubuntu</h3></strike> some problem with the uefi and the bitlocker,too much hassel to deal with<br>
+<strike>wubi ubuntu</strike> some problem with the uefi and the bitlocker,too much hassel to deal with<br>
+<strike>Install on usb</strike> Bitlocker problem. has to play with easybcd .meh<br>
+<strike>Live usb</strike> Slow and small persistent, need to format the fat32 to use bigger space<br>
+
 Virtual Box seems to be the best choice for a quick start up to run python code for my security class.
 Well i got virtual box installed(even though on the download page there is a big red letter saying it is not fully supported yet,it still work fine for me) and copy my old vdi files and then error..<br>
 Well if there are an error code most likely a quick google will show up about turning hyper-v off.<br>
