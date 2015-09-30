@@ -16,6 +16,6 @@ so, what do i learn from this ?<br>
 ###Window10 virtual box
 Well window 10 for some reason turn on hyper-v on by after updating.<br>
 turn it off ,seriously, <br>
-go to window feature and un-click on the hyper-v 
-and <B> restart it then or it wont work</B>
+go to window feature and un-click on the hyper-v and
+<br><B> restart it then or it wont work</B><br>
 
