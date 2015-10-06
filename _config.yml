@@ -20,7 +20,7 @@ paginate:         5
 
 # Custom vars
 version:          0.0.1
-Resume:           https://sokk19xx.github.io/resume
+Resume:           https://sokk19xx.github.io/resume/
 
 github:
   repo:           https://github.com/sokk19xx
