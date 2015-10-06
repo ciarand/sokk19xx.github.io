@@ -20,7 +20,8 @@ paginate:         5
 
 # Custom vars
 version:          0.0.1
-Resume:https://www.linkedin.com/in/skourun
+Resume:           https://www.linkedin.com/in/skourun
+  Link:           https://www.linkedin.com/in/skourun
 github:
   repo:           https://github.com/sokk19xx
 
